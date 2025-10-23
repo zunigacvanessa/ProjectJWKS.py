@@ -1,0 +1,39 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.env
+.vscode/
+.idea/
+coverage.svg
+# macOS
+.DS_Store
+assets/.DS_Store
+# coverage output
+coverage.xml
+
+.DS_Store
+assets/.DS_Store
+coverage.xml
+
+.DS_Store
+assets/.DS_Store
+coverage.xml
+.DS_Store
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+
+# SQLite DB files
+totally_not_my_privateKeys.db
+totally_not_my_privateKeys.db-shm
+totally_not_my_privateKeys.db-wal
+coverage.xml
